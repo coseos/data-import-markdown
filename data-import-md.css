@@ -1,0 +1,8 @@
+/** https://github.com/coseos/data-import-markdown */
+* { color: #555555; font-family: sans-serif }
+body { padding: 2rem 1rem }
+code { color: #333333; font-family: monospace }
+h1, h2, h3, h4, h5, h6 { color: #223355 }
+a { color: #c67c00; text-decoration: none; background-image: url('link.svg'); background-repeat: no-repeat; background-size: contain; background-position: right; padding-right: 1.6rem }
+pre { background-color: #eeeeee; padding: 1rem }
+div[data-import-md] { margin: 0 auto; width: 40rem }
